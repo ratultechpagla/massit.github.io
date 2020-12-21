@@ -1,0 +1,10 @@
+.form-control{
+    background-color: #343a40;
+    border: 0px #343a40 solid;
+}
+textarea:hover, input:hover, textarea:active, input:active, textarea:focus, input:focus,button:focus,button:active,button:hover,label:focus,.btn:active,.btn.active
+{
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
